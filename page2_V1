@@ -1,0 +1,80 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+</style>
+<!DOCTYPE html> 
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<meta name="Keywords" content="Education Outside The Classroom"/>
+	<meta name="author" content="Trent Swaine"/>
+	<meta name="Description" content="Website about the different activites of E.O.T.C / Education Outside The Classroom"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	
+	<!-- import the webpage's stylesheet goes here -->
+	<link rel="stylesheet" href="css/css2_V1.css">
+	<link href="https://fonts.googleapis.com/css?family=Sriracha" rel='stylesheet'>
+	<link href="https://fonts.googleapis.com/css?family=Permanent Marker" rel='stylesheet'>
+	<link href="https://fonts.googleapis.com/css?family=Audiowide" rel='stylesheet'>
+	<link href="https://fonts.googleapis.com/css?family=Roboto Condensed" rel='stylesheet'>
+  </head>
+	
+	<!-- main webpage content starts here -->
+  <body>
+  	  
+		<div class="grid-container">
+			
+			<div class="nav">
+		
+			<h2><center>Nav</center></h2>
+		</div>
+		
+		<div class="header"></div>
+		
+		
+		
+		<!--This class is for my Navigation/Menu-->
+		<div class="subheading1">
+			<h1><center>Subheading 1</center></h1>
+			</div>
+			
+			
+
+		<div class="content"> <!-- This the main content on the website that tells you about Jazz-->
+			<div class=""><h2><center>Content</center></h2>
+				
+				<hr></hr>
+				
+				<p><center>Students will complete one day of community service assisting local residents and businesses. This will usually occur within walking distance of Tawa College for all Year 10 students. This day has the key focus of citizenship and has been a great success in previous years. A day pack with your lunch, water bottle, sun hat, a warm jumper and rain jacket if the weather forecast is bad. It will still go ahead unless there is torrential rain. Please wear appropriate old clothes for potential gardening/painting jobs and closed toed shoes. Bring any medication required.
+
+Students will spend a day completing community service in a small group with friends in the Tawa basin, supervised by a staff member. This is a highly valuable experience where students have the chance to interact with the elderly helping them with gardening, painting etc or assisting local food banks, kindergartens, hospice shops and charities for the day. Students will usually walk to their allocated job with a staff member, however a very small number of jobs will be on the fringes of the Tawa Basin and therefore they may be driven by a staff member in their groups.
+</center></p>
+			
+
+	
+	
+	
+	
+	<button onclick="topFunction()" id="myBtn" title="Go to top"><img id = "Up Arrow" src="images/arrow3.png"></button>
+	
+					</div>
+			</div>
+	
+		<div class="subheading2">
+			  <h1><center>subheading 2</center></h1>
+			</div>
+		<div class="content2">
+			<div class="grad"></div>
+	<div class="grad"></div>
+	<div class="grad"></div>
+	
+	
+	</div>
+	<div class="footer2"> <h4>Trent Swaine copyright © E.O.T.C-Tawa college 2024, all rights reserved.</h4>
+			</div>
+			<div class="footer"> <h9>Trent Swaine copyright © KCC 2024, all rights reserved.</h9> 
+		</div>
+			<div class="footer2">
+			</div>
+	<script type="text/javascript" src="js/backtotop.js"></script>
+  </body>
+ </html>
