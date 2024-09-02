@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	
 	<!-- import the webpage's stylesheet goes here -->
-	<link rel="stylesheet" href="css/css4_V1.css">
+	<link rel="stylesheet" href="css/css2_V2.css">
 	<link href="https://fonts.googleapis.com/css?family=Sriracha" rel='stylesheet'>
 	<link href="https://fonts.googleapis.com/css?family=Permanent Marker" rel='stylesheet'>
 	<link href="https://fonts.googleapis.com/css?family=Audiowide" rel='stylesheet'>
@@ -25,25 +25,50 @@
 			
 			<div class="nav">
 		
-				<h2><center>Nav</center></h2>
+			<ul>
+				<li><a href="index_V2.html">Home</a></li>
+				<li><a href>EOTC Activites</a>
+					<ul>
+					<li><a href="Page2_V2.html">Community Service</a></li>
+					<li><a href="Page3_V2.html">Adrenalin Foret</a></li>
+					<li><a href="Page4_V2.html">Wainuiomata Camp</a></li>
+					<li><a href="Page5_V2.html">Rangituhi Day Tramp</a></li>
+					</ul>
+				</li>
+				<li><a href="contact_V2.html">Contact</a></li>
+			</ul>
 		</div>
 		
 		<div class="header"></div>
 		
 		
+		
 		<!--This class is for my Navigation/Menu-->
 		<div class="subheading1">
-			<h1><center>subheading 1</center></h1>
+			<h1><center>Information</center></h1>
 			</div>
 			
 			
 
 		<div class="content"> <!-- This the main content on the website that tells you about Jazz-->
-			<div class=""><h2><center>Content</center></h2>
+			<div class=""><h2><center>What is Community Service</center></h2>
 				
+				<hr></hr>
 				
-				
-				<p><center>Education Outside the Classroom (E.O.T.C) is an integral and distinctive aspect of the New Zealand education system that offers students valuable opportunities to learn beyond the traditional classroom setting. EOTC is guided by the principles of the New Zealand Curriculum and Te Marautanga o Aotearoa, which emphasize student-centered learning, holistic development, and engaging with the local community and environment. This approach to education outdoors recognizes that learning is not confined to textbooks and classrooms; rather, it extends to real-world experiences that enhance students’ skills, knowledge, values, and personal growth. Education Outside the Classroom is a powerful and enriching approach to education in New Zealand that offers students a wide range of benefits. By connecting classroom learning to real-world experiences, EOTC enhances students’ holistic development, fosters key competencies, and promotes values such as empathy, respect, and resilience. Through EOTC activities, students develop a deeper appreciation for their environment, community, and culture, laying the groundwork for active and engaged citizenship. EOTC exemplifies the New Zealand education system’s commitment to providing meaningful and impactful learning experiences that prepare students for a dynamic and diverse world.</center></p>
+				<p><center>Students will complete one day of community service assisting local residents and businesses.</center></p>
+						<h5><center>.</center></h5>
+					<p><center>This will usually occur within walking distance of Tawa College for all Year 10 students. 
+						
+						This day has the key focus of citizenship and has been a great success in previous years. A day pack with your lunch, water bottle, sun hat, a warm jumper and rain jacket if the weather forecast is bad. 
+						<h5><center>.</center></h5>
+						It will still go ahead unless there is torrential rain. Please wear appropriate old clothes for potential gardening/painting jobs and closed toed shoes. Bring any medication required.</center></p>
+						<h5><center>.</center></h5>
+							<p><center>Students will spend a day completing community service in a small group with friends in the Tawa basin, supervised by a staff member. 
+						
+							This is a highly valuable experience where students have the chance to interact with the elderly helping them with gardening, painting etc or assisting local food banks, kindergartens, hospice shops and charities for the day.</center></p>
+						<h5><center>.</center></h5>
+							<p><center>Students will usually walk to their allocated job with a staff member, however a very small number of jobs will be on the fringes of the Tawa Basin and therefore they may be driven by a staff member in their groups.</center></p>
+</center></p>
 			
 
 	
@@ -56,14 +81,16 @@
 			</div>
 	
 		<div class="subheading2">
-			  <h1><center>subheading 2</center></h1>
+			  <h1><center>Images</center></h1>
 			</div>
 		<div class="content2">
-			<h2><center>Images</center></h2>
+			<div class="grad"></div>
+	<div class="grad"></div>
+	<div class="grad"></div>
 	
 	
 	</div>
-	<div class="footer2"> <h4>Trent Swaine copyright © KCC 2024, all rights reserved.</h4>
+	<div class="footer2"> <h4>Trent Swaine copyright © E.O.T.C - Tawa college 2024, all rights reserved.</h4>
 			</div>
 			<div class="footer"> <h9>Trent Swaine copyright © KCC 2024, all rights reserved.</h9> 
 		</div>
