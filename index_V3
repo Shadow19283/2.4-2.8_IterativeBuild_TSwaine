@@ -52,15 +52,17 @@
 
 		<div class="content"> <!-- This the main content on the website that tells you about Jazz-->
 			<div class=""><h2><center>What is E.O.T.C</center></h2>
-				
+				<div class="container2">
+				<button onclick="myFunction()" id="myText">Hide/Show</button>
+				</div>
 				<hr></hr>
+				<div id="myDIV">
   				<p><center>Education Outside the Classroom (E.O.T.C) is an integral and distinctive aspect of the New Zealand education system that offers students valuable opportunities to learn beyond the traditional classroom setting. EOTC is guided by the principles of the New Zealand Curriculum and Te Marautanga o Aotearoa, which emphasize student-centered learning, holistic development, and engaging with the local community and environment.
 			This approach to education outdoors recognizes that learning is not confined to textbooks and classrooms; rather, it extends to real-world experiences that enhance students’ skills, knowledge, values, and personal growth.
 			Education Outside the Classroom is a powerful and enriching approach to education in New Zealand that offers students a wide range of benefits. By connecting classroom learning to real-world experiences, EOTC enhances students’ holistic development, fosters key competencies, and promotes values such as empathy, respect, and resilience.
 			Through EOTC activities, students develop a deeper appreciation for their environment, community, and culture, laying the groundwork for active and engaged citizenship. EOTC exemplifies the New Zealand education system’s commitment to providing meaningful and impactful learning experiences that prepare students for a dynamic and diverse world.</center></p>
-	
-	
-	
+			</div>
+<h5><center>.................................................................................................................................................................................................................................................................................................................................................................................................................</center></h5>
 	
 	<button onclick="topFunction()" id="myBtn" title="Go to top"><img id = "Up Arrow" src="images/arrow3.png"></button>
 	
@@ -95,5 +97,6 @@
 			<div class="footer2">
 			</div>
 	<script type="text/javascript" src="js/backtotop.js"></script>
+	<script type="text/javascript" src="js/showandhide.js"></script>
   </body>
  </html>
